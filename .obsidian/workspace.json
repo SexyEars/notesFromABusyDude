@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application design OOP/Coupling and Cohesion.md",
+                "file": "БД/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Application design OOP/Coupling and Cohesion.md",
+                "file": "БД/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Application design OOP/Coupling and Cohesion.md",
+                "file": "БД/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Application design OOP/Coupling and Cohesion.md"
+                "file": "БД/Untitled.md"
               }
             }
           },
@@ -157,14 +157,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de66da4f8c792560",
+  "active": "8b6420a674d0b31e",
   "lastOpenFiles": [
+    "Application design OOP/Coupling and Cohesion.md",
+    "БД/Untitled.md",
     "FP/linkedList.md",
     "FP/Subtyping (in dev).md",
     "FP/TypeClass (in dev).md",
     "redbook/answers.md",
     "patterns/bff.md",
-    "Application design OOP/Coupling and Cohesion.md",
     "mouse guard/weather.md",
     "mouse guard/ideas/Интересное.md",
     "notesFromABusyDude/Application design OOP/Coupling and Cohesion.md",
@@ -184,7 +185,6 @@
     "mouse guard/help sheet.md",
     "mouse guard/games/3-я партия.md",
     "mouse guard/games/Планы на 1-ую партию.md",
-    "mouse guard/games/1-ая партия.md",
     "mouse guard/images/Карта с разметкой.jpeg",
     "notesFromABusyDude/images/linkedList.png",
     "notesFromABusyDude/architecture course",
