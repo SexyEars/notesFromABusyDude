@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b6420a674d0b31e",
+            "id": "c5b18c4485643f10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "БД/Untitled.md",
+                "file": "sre guides.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "БД/Untitled.md",
+                "file": "sre guides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "БД/Untitled.md",
+                "file": "sre guides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "БД/Untitled.md"
+                "file": "sre guides.md"
               }
             }
           },
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,15 +156,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b6420a674d0b31e",
+  "active": "c5b18c4485643f10",
   "lastOpenFiles": [
-    "Application design OOP/Coupling and Cohesion.md",
+    "patterns/bff.md",
+    "sre guides.md",
+    "SRE Guides.md",
+    "System design/microservice and monolite.md",
+    "System design/Microservices patterns.md",
+    "System design/refs.md",
+    "TFTDS (распределенные системы)/atomic broadcast.md",
+    "TFTDS (распределенные системы)/репликация регистра.md",
+    "TFTDS (распределенные системы)/распределенные системы.md",
     "БД/Untitled.md",
+    "Application design OOP/Coupling and Cohesion.md",
     "FP/linkedList.md",
     "FP/Subtyping (in dev).md",
     "FP/TypeClass (in dev).md",
     "redbook/answers.md",
-    "patterns/bff.md",
     "mouse guard/weather.md",
     "mouse guard/ideas/Интересное.md",
     "notesFromABusyDude/Application design OOP/Coupling and Cohesion.md",
@@ -177,14 +184,6 @@
     "mouse guard/locations/Плющи.md",
     "mouse guard/characters/Дым'Ок.md",
     "mouse guard/characters/Ядите Тид.md",
-    "mouse guard/characters/Покерфейс.md",
-    "mouse guard/games/Планы на 4-ую партию.md",
-    "mouse guard/games/4-ая партия.md",
-    "mouse guard/games/Планы на 2-ую партию.md",
-    "mouse guard/games/Планы на 3-ю партию.md",
-    "mouse guard/help sheet.md",
-    "mouse guard/games/3-я партия.md",
-    "mouse guard/games/Планы на 1-ую партию.md",
     "mouse guard/images/Карта с разметкой.jpeg",
     "notesFromABusyDude/images/linkedList.png",
     "notesFromABusyDude/architecture course",
